@@ -1,4 +1,4 @@
-# finance practice
+# Finance Practice
  With no wifi, can I outmaster the quants in big hedge funds and predict future prices off prices I made up on my own?
 
 Explore with me my attempt at creating a nice portfolio for the quants to look at and probably be confused.
